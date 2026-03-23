@@ -1,0 +1,24 @@
+{
+  "name": "ejecuci-n_servidor_express_github",
+  "version": "1.0.0",
+  "description": "Ejecutar el primer servició con express, pero ahora implemetado y complementado con Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco030505/Ejecuci-n_Servidor_Express_Github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marco030505/Ejecuci-n_Servidor_Express_Github/issues"
+  },
+  "homepage": "https://github.com/marco030505/Ejecuci-n_Servidor_Express_Github#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
