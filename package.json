@@ -20,6 +20,7 @@
   "homepage": "https://github.com/marco030505/Ejecuci-n_Servidor_Express_Github#readme",
   "dependencies": {
     "express": "^5.2.1",
+    "mongoose": "^9.6.1",
     "pg": "^8.20.0"
   }
 }
